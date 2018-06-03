@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F0B8D354453958C760CC4BF8ACA42BC1FFF6834",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8F0B8D354453958C760CC4BF8ACA42BC1FFF6834" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F78CD33D-1CF5-4EB1-85D8-8B4389D2C121",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8F0B8D354453958C760CC4BF8ACA42BC1FFF6834" : "Upload2TF\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "upload2TF",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "upload2TF\/upload2TF.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/klarkyi\/Upload2TF.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F0B8D354453958C760CC4BF8ACA42BC1FFF6834"
+    }
+  ]
+}
