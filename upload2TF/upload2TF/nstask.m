@@ -45,6 +45,10 @@ NSString *password=@"";
     
     // 获取运行结果
     NSData *data = [file readDataToEndOfFile];
-    return [[NSString alloc] initWithData: data encoding: NSUTF8StringEncoding];
+    NSString *result = [[NSString alloc] initWithData: data encoding: NSUTF8StringEncoding];
+    if ([result containsString:@"success-message"]){
+        result=@"Upload to TestFlight success";
+    }
+    return result;
 }
 @end
